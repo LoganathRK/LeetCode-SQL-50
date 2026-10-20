@@ -4,7 +4,7 @@ A record of my LeetCode SQL 50 achievement and continued practice in SQL and dat
 
 ## Achievement
 
-![LeetCode SQL 50 Badge](images/sql-50-badge.jpg)
+![LeetCode SQL 50 Badge](DBMS_Leetcode.jpg)
 
 Earned the **SQL 50** badge by completing the LeetCode SQL 50 study plan.
 
